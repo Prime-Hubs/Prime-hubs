@@ -1,12 +1,12 @@
 <p align="center">
-<!-- First Anime GIF from your link -->
+<!-- First Anime GIF -->
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/6KfOhA4rh822RS0Phn/giphy.gif" width="100%" />
 </p>
 <p align="center">
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dtransparent%26fontColor%3DFF0000%26text%3DPRIME%2520HUBS%26fontSize%3D90%26fontAlignY%3D40%26animation%3Dtwinkling" />
 </p>
 <p align="center">
-<!-- Second Anime GIF from your link -->
+<!-- Second Anime GIF -->
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/UhGzw8ELQQapa/giphy.gif" width="400" />
 </p>
 <p align="center">
@@ -21,7 +21,7 @@
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPrime-Hubs%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3DFF0000%26text_color%3DFFFFFF" height="170" />
 </p>
 <p align="center">
-<!-- Third Anime GIF from your link (Footer) -->
+<!-- Third Anime GIF -->
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/iHmodiTc8t0BO/giphy.gif" width="100%" />
 </p>
 <p align="center">
